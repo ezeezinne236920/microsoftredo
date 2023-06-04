@@ -1,0 +1,37 @@
+* {
+  color: black;
+}
+.sidebarDiv {
+  min-height: 90vh;
+  width: 100%;
+  /* overflow-y: auto; */
+  /* white-space: nowrap; */
+  z-index: 1;
+}
+.suboptionToggle {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  justify-content: space-between;
+}
+.suboptionmargin a {
+  margin-left: 1rem;
+  /* background: #000; */
+}
+/* .sidebarDiv ul, p {
+  margin: 1rem;
+} */
+.firstul li,
+.suboptionToggle {
+  margin: 2rem;
+  border-bottom: 0.1px solid rgba(0, 0, 0, 0.082);
+}
+
+.sidebarContainer {
+  min-height: 60vh;
+  background-color: lightgrey;
+  z-index: 879;
+  /* min-width: max-content; */
+  /* overflow: scroll; */
+  /* white-space: nowrap; */
+}

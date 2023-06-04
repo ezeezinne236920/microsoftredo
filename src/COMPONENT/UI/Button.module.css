@@ -1,0 +1,29 @@
+.butn span {
+  margin-left: 1rem;
+}
+button {
+  font-weight: bolder;
+}
+.butn {
+  color: black;
+  border: none;
+  font-weight: bolder;
+}
+.cite:hover {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.733);
+}
+.butn span {
+  font-size: 0.99rem;
+}
+.butn span:hover {
+  padding-right: 6px;
+}
+.btn {
+  border: none;
+  background: rgb(0, 55, 128);
+  min-height: 5vh;
+  margin: 5px 9px;
+  min-width: 33%;
+  color: #fff;
+}
+ 

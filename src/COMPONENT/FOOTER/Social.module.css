@@ -1,0 +1,17 @@
+.Social {
+  display: flex;
+  margin: 2rem 0px 6rem 0px;
+  align-items: center;
+}
+.Social p {
+  font-size: 1.5rem;
+}
+
+.Social div {
+  display: flex;
+  margin-left: 1.7rem;
+  font-size: 1.3rem;
+}
+.Social div span {
+  margin-left: 1.7rem;
+}
